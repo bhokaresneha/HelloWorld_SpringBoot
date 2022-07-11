@@ -1,4 +1,4 @@
-package com.example.helloworld_springboot;
+package com.bridgelabz.helloworld_springboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.helloworld_springboot;
+package com.bridgelabz.helloworld_springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HelloWorldSpringBootApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(HelloWorldSpringBootApplication.class, args);
+        System.out.println("Hello From Bridgelabz");
     }
 
 }
